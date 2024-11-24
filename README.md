@@ -15,6 +15,16 @@ This project facilitates drawing color, gray, and gradient histograms for images
 - `Makefile`
 - `requirements.txt`
 
+## Example
+
+![](images/img1.jpg)
+
+Below are the output figures of the color, gray, and gradient histograms of this image.
+
+![](hists_example/color/img1.png)
+![](hists_example/gray/img1.png)
+![](hists_example/gradient/img1.png)
+
 ## Install
 
 1. Ensure that you have Python installed on your system.
