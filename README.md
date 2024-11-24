@@ -21,9 +21,7 @@ This project facilitates drawing color, gray, and gradient histograms for images
 
 ### Sample Image
 
-<p>
-    <img src="images/img1.jpg" alt="Sample Image" style="max-height: 60%; max-width: 60%; display: block; margin: 10 auto;">
-</p>
+![Sample Image](images/img1.jpg)
 
 ### Output Histograms
 
