@@ -17,29 +17,7 @@ This project facilitates drawing color, gray, and gradient histograms for images
 
 ## Example
 
-<style>
-    .figure-container {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
-    figure {
-        text-align: center;
-    }
-    .image-container {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        height: 200px;
-    }
-    .image-container figure {
-        margin: 5px;
-        text-align: center;
-    }
-    .image-container figcaption {
-        margin-top: 10px;
-    }
-</style>
+<link rel="stylesheet" type="text/css" href="styles.css">
 
 <div class="figure-container">
     <figure>
