@@ -19,6 +19,8 @@ This project facilitates drawing color, gray, and gradient histograms for images
 
 <link rel="stylesheet" type="text/css" href="styles.css">
 
+### Sample Image
+
 <div class="figure-container">
     <figure>
         <img src="images/img1.jpg" alt="Description of the image" style="max-height: 80%; max-width: 80%;">
@@ -26,7 +28,7 @@ This project facilitates drawing color, gray, and gradient histograms for images
     </figure>
 </div>
 
-Below are the output figures of the color, gray, and gradient histograms of the sample image.
+### Output Histograms
 
 <div class="image-container">
     <figure>
