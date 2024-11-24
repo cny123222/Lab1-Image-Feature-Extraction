@@ -21,29 +21,15 @@ This project facilitates drawing color, gray, and gradient histograms for images
 
 ### Sample Image
 
-<div class="figure-container">
-    <figure>
-        <img src="images/img1.jpg" alt="Description of the image" style="max-height: 80%; max-width: 80%;">
-        <figcaption>Sample Image (SJTU)</figcaption>
-    </figure>
-</div>
+<p>
+    <img src="images/img1.jpg" alt="Sample Image" style="max-height: 60%; max-width: 60%; display: block; margin: 10 auto;">
+</p>
 
 ### Output Histograms
 
-<div class="image-container">
-    <figure>
-        <img src="hists_example/color/img1.png" alt="Description of the image" style="max-height: 100%; max-width: 100%;">
-        <figcaption>Color Histogram</figcaption>
-    </figure>
-    <figure>
-        <img src="hists_example/gray/img1.png" alt="Description of the image" style="max-height: 100%; max-width: 100%;">
-        <figcaption>Gray Histogram</figcaption>
-    </figure>
-    <figure>
-        <img src="hists_example/gradient/img1.png" alt="Description of the image" style="max-height: 100%; max-width: 100%;">
-        <figcaption>Gradient Histogram</figcaption>
-    </figure>
-</div>
+| ![Color Histogram](hists_example/color/img1.png) | ![Gray Histogram](hists_example/gray/img1.png) | ![Gradient Histogram](hists_example/gradient/img1.png) |
+|:--:|:--:|:--:|
+| Color Histogram | Gray Histogram | Gradient Histogram |
 
 ## Install
 
