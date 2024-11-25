@@ -56,7 +56,7 @@ python -m codes.main \
 ```
 
 Note: 
-- The  `hist-type`· can be selected from 'color', 'gray', 'gradient', and 'all' (for all three histograms). 
+- The  `hist-type` can be selected from 'color', 'gray', 'gradient', and 'all' (for all three histograms). 
 - Avoid duplicate filenames in `input-dir`.
 - The `output-type` parameter is optional.
 
